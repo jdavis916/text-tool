@@ -10,13 +10,7 @@ Install on a wamp server or any system that can use php files.
 TODO: move to node setup later
 
 
-```
-Give examples
-```
-
-### Installing
-
-
+### Examples
 
 ```
 ["test1", "test2", "test3"]
@@ -29,8 +23,6 @@ test1
 test2
 test3
 ```
-
-
 
 ## Running the tests
 
