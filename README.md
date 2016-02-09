@@ -6,7 +6,7 @@ This project is to create a tool that easily switches your information between n
 
 Install on a wamp server or any system that can use php files. 
 
-**note** 
+
 TODO: move to node setup later
 
 
