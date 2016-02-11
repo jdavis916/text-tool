@@ -13,15 +13,16 @@ TODO: move to node setup later
 ### Examples
 
 ```
-["test1", "test2", "test3"]
+test1
+test2
+test3
+
 ```
 
 becomes 
 
 ```
-test1
-test2
-test3
+["test1", "test2", "test3"]
 ```
 
 ## Running the tests
